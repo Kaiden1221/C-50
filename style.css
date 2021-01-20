@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(31, 29, 30);
+    border: solid;
+}
+.cowChicken{
+    background-color:brown;
+}
+
+.chickenCow{
+    background-color:brown;
+}
+.new{display:flexbox;
+justify-content:space-between
+}
